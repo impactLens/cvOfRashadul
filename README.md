@@ -1,6 +1,7 @@
 # RASHADUL ISLAM 
-## B.Sc (double undergraduate)
-### System Software, Software Engineering, Canada-Bangladesh
+B.Sc (double undergraduate)
+
+System Software, Software Engineering, Canada-Bangladesh
 
 [IMPORTANT]
 ====
