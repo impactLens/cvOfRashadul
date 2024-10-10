@@ -92,20 +92,14 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 |TITLE|ORGANIZATION|GEO LOCATION | EFFORT | ACHIEVEMENT |
 |---|---|---|---|---|
 |Digital Infrastructure Designer, Enterprise resource planning ( ERP ) | Primeasia University | Bangladesh | 30000 hours | CMMI level 3, PMMI level 4|
-
 |iSalesEngine & Analytic Developer (J2EE, J2SE, C++, Python, Oracle, Apache Tomcat, Responsive HTML5, CSS, LISP)  |Quest Consultancy | Bangladesh | Estimated 42240 hours | CMMI level 4, PMMI level 3|
-
-|Data Analyst (Customer purchase behavior, sales & supply chain)  |contractual, a medicine company | UK | Estimated 50000 hours | CMMI level 4, PMMI level 4 |
-
+|Data Analyst (Customer purchase behavior, sales & supply chain)  |Contractual, a medicine company | UK | Estimated 50000 hours | CMMI level 4, PMMI level 4 |
 |Technical lead & Technical Writer|LGED, BTCL, USAID|Bangladesh |Estimated 12063980 hours | CMMI level 5, PMMI level 5 |
-
 |Organization developer & Adjunct Faculty |A leading private university |Bangladesh |Estimated 32000 hours | CMMI level 3, PMMI level 2|
-
 |Associate Consultant IT and ICT |S.F. Ahmed & Co. |Dhaka, Bangladesh | Estimated 200000 hours | CMMI level 5, PMMI level 5|
-
 |Artificially Learning Cogs In Automated Smart Home System & Real-time Analytics |Sponsored Data Science Project|Bangladesh | Estimated 61320 hours | CMMI level 5, PMMI level 5|
-
 | Real-time Product Recommending Chatbot | Wholesale wirehouse or Retail business | Global | Estimated 20000 hours | CMMI level 5, PMMI level 5 |
+
 
 		
 \section{Published journals }
