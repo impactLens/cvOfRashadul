@@ -60,38 +60,37 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 |Birds flocking | Fish schooling    | Animal herding and ant colony | Swimming  | 
 |Golf           | Sudoku            | Magic Square                  | Billiards |
 
-\section{Work Experience}
+## Work Experience and Awards, Achievements
 
 
-		DESIGNATION \par ORGANIZATION & GEO LOCATION & YEAR \\ \hline
-		
-		Consultant IT/ICT \par S.F. Ahmed \& Co. & Bangladesh & Winter 2010 - Spring 2023\\ \hline
-		
-		Chief Global Operation Executive \par QUEST Consultancy & Bangladesh & Sep 2016 - Sep 2023\\ \hline
-		
-		Ambassador, Fedora project \par Open source community project under Red hat & Canada Region & Fall 2005 - Current\\ \hline
-		
-		DevOP ( full stack )  \par Java Enterprise Editions(ERP, SAP, Cloud Computing, WebApp, MobileApp, Microservice)  \par Contractual & Bangladesh - Canada & June 2003 - Current\\ \hline
-		
-		Mentor Entrepreneur \& Business Developer  \par SME \& NGO & Bangladesh & January 2009 - January 2023\\ \hline
-		
-		Author \par Technological Fiction \par Engineering Magazine, ECA, Concordia University & Canada & Fall 2003 - Current\\ \hline
-		
-		Technical \& Review Writer \par Contractual  \par Open contract & Bangladesh & August 2011 - September 2020\\ \hline
-		
-		Creative Writer \par Ads Agency \& Media Houses \par Contractual & Bangladesh & Summer 2006 - Current\\ \hline
-		
-		Consulting Analyst \par Data Science and Big Data \& statistical-economical-financial Analysis \par Contractual & Canada-Bangladesh & December 2011 - Current\\ \hline
-		
-		Faculty, Dept. of CSE \par Primeasia University & Bangladesh & Fall 2009 - Fall 2012\\ \hline
-		
-		Visiting Trainer [Funded by JICA]  \par Bangladesh Computer Council & Bangladesh & Summer 2010\\ \hline
-		
-		Organizer \par BASIS Soft Expo 2011 & Bangladesh & Winter 2011 \\ \hline
-		
-		%Organizer \par First convocation, Primeasia University & Bangladesh & Winter 2010 \\ \hline
-		
-		Technology, Lifestyle \& Glamour Writer  \par A media house, Dhaka & Bangladesh &  October 2016 - \par September 2020 \\ \hline
+|DESIGNATION | ORGANIZATION | GEO LOCATION  | YEAR   |
+|---         |---           |---            |---    |
+
+|Chief Global Operation Executive           | QUEST Consultancy | Bangladesh | Sep 2016 - Sep 2023|
+
+|Ambassador, Fedora project                 | Open source community project under Red hat | Canada Region | Fall 2005 - Current|
+|
+|Full-stack DevOP                           | Java Enterprise Editions(ERP, SAP, Cloud Computing, WebApp, MobileApp, Microservice)  
+                                            | Contractual | Bangladesh - Canada | June 2003 - Current|
+|
+|Mentor Entrepreneur                        | Business Developer  | SME and NGO | Bangladesh | January 2009 - January 2023|
+|
+|Author                                     | Technological Fiction | Engineering Magazine, ECA, Concordia University | Canada | Fall 2003 - Current|
+|
+|Technical Review Writer                    | Contractual  | Open contract | Bangladesh | August 2011 - September 2020|
+|
+|Creative Writer                            | Ads Agency and Media Houses | Contractual | Bangladesh | Summer 2006 - Current|
+|
+|Consulting Analyst, Data Science and Big Data, Statistical-economical-financial Analysis 
+                                            | Contractual | Canada-Bangladesh | December 2011 - Current|
+
+|Visiting Trainer [Funded by JICA]          | Bangladesh Computer Council | Bangladesh | Summer 2010|
+|
+|Organizer                                  | BASIS Soft Expo 2011 | Bangladesh | Winter 2011 |
+|
+|Organizer                                  | First convocation, Primeasia University | Bangladesh | Winter 2010 |
+|
+|Technology, Lifestyle and Glamour Writer   | A media house, Dhaka | Bangladesh |  October 2016 - | September 2020
 		
 \section{ Academic Details}
 		DEGREE \\ SPECIALIZATION \\ YEAR & SCORES & INSTITUTE \par GEO LOCATION\\
