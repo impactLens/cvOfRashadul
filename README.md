@@ -78,31 +78,17 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 |Organizer                                  | First convocation, Primeasia University | Bangladesh | Winter 2010 |
 |Technology, Lifestyle and Glamour Writer   | A media house, Dhaka | Bangladesh |  October 2016 - | September 2020|
 		
-\section{ Academic Details}
-		DEGREE \\ SPECIALIZATION \\ YEAR & SCORES & INSTITUTE \par GEO LOCATION\\
-		\hline
-		
-		B.Sc. in CSE \\ \textit{Specialization: Software Engineering} \\ \#2nd undergraduate \\ Fall 2018 - Fall 2020  & CGPA: 3.74 \par(out of 4.0) & IBAIS University, Bangladesh \\  \hline
-		%&  \\
-		B.Sc. in Computer Sci.\& Eng. \\ \textit{Specialization: System Software}\\ \#1st undergraduate  \\ Fall 2003 - Fall 2008 & CGPA: 3.00 \par(out of 4.0) &
-		Concordia University, Canada \\  \hline
-		%&  \\
-		English as a Foreign Language  (ESL) \\
-		Summer 2003 & Band Score: 8.5 \par(out of 10) &
-		Acadia University, Canada\\ \hline
-		%&  \\
-		B.Sc. in Computer Sci.\\\textit{Major: Computer Science, Minor: Finance} \\
-		Fall 2001 - Summer 2003 & CGPA: 3.23 \par(out of 4.0) &
-		Independent University, Bangladesh \\ \hline
-		%	&  \\
-		HSC \\ \textit{Group: Science}\\ Rajshahi Board \\ 2000 &
-		MARKS: 788 \par(out of 1000) &
-		Cantt. Public School and College Rangpur, Bangladesh \\ \hline
-		%&  \\
-		SSC \\ \textit{Group: Science} \\ Rajshahi Board \\ 1998 &
-		MARKS: 897 \par(out of 1000)&
-		Rangpur Zilla School, Bangladesh\\ \hline
-		
+## Academic Details
+|DEGREE | SPECIALIZATION | YEAR | SCORES | INSTITUTE |GEO LOCATION|
+|---    |---            |---        |---    |---|---|
+|B.Sc. in CSE | Software Engineering | 2nd undergraduate | Fall 2018 - Fall 2020  | CGPA: 3.74 out of 4.0 | IBAIS University, Bangladesh |
+|B.Sc. in Computer Science| System Software| 1st undergraduate  | Fall 2003 - Fall 2008 | CGPA: 3.10 out of 4.0 |
+|Concordia University, Canada |
+|English as a Foreign Language  (ESL) | |Summer 2003 | Band Score: 8.5 out of 10 | Acadia University, Canada |
+|B.Sc. in Computer Science |Major: Computer Science, Minor: Finance | Fall 2001 - Summer 2003 | CGPA: 3.23 out of 4.0 |
+|Independent University, Bangladesh | 
+|HSC | Group: Science| Rajshahi Board | 2000 |MARKS: 788 out of 1000 |Cantt. Public School and College Rangpur, Bangladesh |
+|SSC | Group: Science | Rajshahi Board | 1998 | MARKS: 897 out of 1000|Rangpur Zilla School, Bangladesh|
 
 \section{Key Projects}
 		TITLE\par ORGANIZATION\par GEO LOCATION & EFFORT & ACHIEVED LEVEL\\
