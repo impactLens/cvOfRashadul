@@ -1,9 +1,11 @@
-RASHADUL ISLAM 
-B.Sc (double undergraduate)
-System Software, Software Engineering, Canada-Bangladesh
+# RASHADUL ISLAM 
+## B.Sc (double undergraduate)
+### System Software, Software Engineering, Canada-Bangladesh
 
-DevOP Full Stack, Consultant IT, Infrastructure \& ICT, Entrepreneur, Business development mentor, Big Data Analyst, Artificial Intelligence \& Nanotechnology [Research Objectives], Algorithm Trade Smith, Product or Service Ecosystem Designer, Organization Branding \& Policy Designer, Open Source Ambassador, Keynote Speaker.
-
+[IMPORTANT]
+====
+DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business development mentor, Big Data Analyst, Artificial Intelligence & Nanotechnology, Algorithm Design, Product or Service Ecosystem Designer, Organization Branding & Policy Designer, Open Source Ambassador, Keynote Speaker, Translator, Student & Career Counselor
+====
 
 %========PERSONAL INFORMATION==========
 		& Name: & RASHADUL ISLAM  \\
