@@ -81,10 +81,10 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 ## Academic Details
 |DEGREE | SPECIALIZATION | YEAR | SCORES | INSTITUTE |GEO LOCATION|
 |---    |---            |---        |---    |---|---|
-|B.Sc. in CSE | Software Engineering | 2nd undergraduate | Fall 2018 - Fall 2020  | CGPA: 3.74 out of 4.0 | IBAIS University| Bangladesh |
-|B.Sc. in Computer Science| System Software| 1st undergraduate  | Fall 2003 - Fall 2008 | CGPA: 3.10 out of 4.0 |
+|B.Sc. in CSE | Software Engineering ( 2nd undergraduate ) | Fall 2018 - Fall 2020  | CGPA: 3.74 out of 4.0 | IBAIS University| Bangladesh |
+|B.Sc. in Computer Science| System Software ( 1st undergraduate ) | Fall 2003 - Fall 2008 | CGPA: 3.10 out of 4.0 |
 |Concordia University| Canada |
-|English as a Foreign Language  (ESL) | |Summer 2003 | Band Score: 8.5 out of 10 | Acadia University| Canada |
+|English as a Foreign Language  (ESL) | English |Summer 2003 | Band Score: 8.5 out of 10 | Acadia University| Canada |
 |B.Sc. in Computer Science |Major: Computer Science, Minor: Finance | Fall 2001 - Summer 2003 | CGPA: 3.23 out of 4.0 |
 |Independent University| Bangladesh | 
 |HSC | Group: Science| Rajshahi Board | 2000 |MARKS: 788 out of 1000 |Cantt. Public School and College Rangpur| Bangladesh |
