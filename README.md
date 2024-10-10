@@ -52,7 +52,8 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 	\includegraphics[width=8cm]{skillsRoss.png}
 
 ## Interest
-|i              | ii                | iii                           | iv        |      
+|i              | ii                | iii                           | iv        |  
+|---            |---                |---                            |---        |
 |Tennis         | Sailing           | Kayaking                      | Swimming  | 
 |Hiking         | Rugby             | Chess                         | Go        |  
 |Maze design    | Crossword         | Beekeeping                    | Poker     |
