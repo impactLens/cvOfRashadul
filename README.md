@@ -102,24 +102,21 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 
 
 		
-\section{Published journals }
-	\item Mantissa Problem In Artificial Intelligent Computing
-	\item Sigma Rate In Errors Finding In Object Oriented Programming \& Compiler
-	\item Newton's Pendulum In Production Environment As A Project Management Paradigm
-	\item Artificially Intelligent Learning Cogs In Client Or Sales or Production Behavior Analysis
-	\item Preemptive Algorithm: Systemic Schedule in Workflow Development
-	\item Artificially Intelligent System: Optimized Sensors, IoT and Machine Learning models integration 
-\end{enumerate}
+## Published journals 
+	 -  Mantissa Problem In Artificial Intelligent Computing
+	 -  Sigma Rate In Errors Finding In Object Oriented Programming & Compiler
+	 -  Newton's Pendulum In Production Environment As A Project Management Paradigm
+	 -  Artificially Intelligent Learning Cogs In Client Or Sales or Production Behavior Analysis
+	 -  Preemptive Algorithm: Systemic Schedule in Workflow Development
+	 -  Artificially Intelligent System: Optimized Sensors, IoT and Machine Learning models integration 
 
-
-
-\section{Achievements \& Awards}
-	\item Second Position in Internal ACM Programming Contest\par Independent University Bangladesh Fall 2002
-	\item Student on Duty (SoD)\par Registrar's, Admission and Financial Aid Office, IUB, Bangladesh Spring 2002-Winter 2003
-	\item Registrar's Office list \& Gold Medalist\par CGPA above 3.75 in consecutive academic semester, a renowned university in Bangladesh 2019
-	\item Outstanding Contribution in Student Life and Career Development \par Concordia University, Canada 2006
-	\item Top 100 Students \par SSC and HSC, Rajshahi Board, Bangladesh 1998 - 2000
-	\item High performance, impact, influential key employee, A renowned gaming organization in Canada
+## Achievements & Awards
+	 -  Second Position in Internal ACM Programming Contest Independent University Bangladesh Fall 2002
+	 -  Student on Duty (SoD) Registrar's, Admission and Financial Aid Office, IUB, Bangladesh Spring 2002-Winter 2003
+	 -  Registrar's Office list & Gold Medalist CGPA above 3.75 in consecutive academic semester, a renowned university in Bangladesh 2019
+	 -  Outstanding Contribution in Student Life and Career Development  Concordia University, Canada 2006
+	 -  Top 100 Students  SSC and HSC, Rajshahi Board, Bangladesh 1998 - 2000
+	 -  High performance, impact, influential key employee, A renowned gaming organization in Canada
 	
 \begin{table}[!ht]
 		Cellular: & +8801714118395\\
