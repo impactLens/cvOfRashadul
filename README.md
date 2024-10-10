@@ -69,28 +69,26 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 |Chief Global Operation Executive           | QUEST Consultancy | Bangladesh | Sep 2016 - Sep 2023|
 
 |Ambassador, Fedora project                 | Open source community project under Red hat | Canada Region | Fall 2005 - Current|
-|
-|Full-stack DevOP                           | Java Enterprise Editions(ERP, SAP, Cloud Computing, WebApp, MobileApp, Microservice)  
-                                            | Contractual | Bangladesh - Canada | June 2003 - Current|
-|
+
+|Full-stack DevOP                           | Java Enterprise Editions(ERP, SAP, Cloud Computing, WebApp, MobileApp, Microservice)  | Contractual | Bangladesh - Canada | June 2003 - Current|
+
 |Mentor Entrepreneur                        | Business Developer  | SME and NGO | Bangladesh | January 2009 - January 2023|
-|
+
 |Author                                     | Technological Fiction | Engineering Magazine, ECA, Concordia University | Canada | Fall 2003 - Current|
-|
+
 |Technical Review Writer                    | Contractual  | Open contract | Bangladesh | August 2011 - September 2020|
-|
+
 |Creative Writer                            | Ads Agency and Media Houses | Contractual | Bangladesh | Summer 2006 - Current|
-|
-|Consulting Analyst, Data Science and Big Data, Statistical-economical-financial Analysis 
-                                            | Contractual | Canada-Bangladesh | December 2011 - Current|
+
+|Consulting Analyst, Data Science and Big Data, Statistical-economical-financial Analysis | Contractual | Canada-Bangladesh | December 2011 - Current|
 
 |Visiting Trainer [Funded by JICA]          | Bangladesh Computer Council | Bangladesh | Summer 2010|
-|
+
 |Organizer                                  | BASIS Soft Expo 2011 | Bangladesh | Winter 2011 |
-|
+
 |Organizer                                  | First convocation, Primeasia University | Bangladesh | Winter 2010 |
-|
-|Technology, Lifestyle and Glamour Writer   | A media house, Dhaka | Bangladesh |  October 2016 - | September 2020
+
+|Technology, Lifestyle and Glamour Writer   | A media house, Dhaka | Bangladesh |  October 2016 - | September 2020|
 		
 \section{ Academic Details}
 		DEGREE \\ SPECIALIZATION \\ YEAR & SCORES & INSTITUTE \par GEO LOCATION\\
