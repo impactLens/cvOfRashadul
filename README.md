@@ -14,7 +14,6 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 | Name of Father:   | Md. SERAJUL ISLAM     |
 | Date of Birth:    | JANUARY 01, 1984      |
 | Nationality:      | Bangladeshi by Birth  |
-|-------------------|-----------------------|
 		
 ## Language Adaptability
 |Language           |Overall Band Score | Out of Score |
@@ -23,69 +22,32 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 |FRENCH             | 6.5               | 10 |
 |BANGLA             | 9.0               | 10 |
 |SPANISH            | 5.5               | 10 |
-|-------------------|-------------------|--------------|
 		
-{\fontsize{10}{8} Technical \& Technology Toolbox}\\
-	J2SE
-	J2EE
-	Mariadb
-	MySQL
-	MySQL workbench
-	Net beans
-	JavaScript
-	HTML5
-	XML
-	CSS
-	Apace Tomcat
-	JBOSS
-	Oracle 19c
-	Git
-	SVN
-	C++
-	C
-	Lisp
-	Emacs
-	Vim
-	Xcode
-	Atom
-	Ansible
-	Docker
-	SaaS
-	PaaS
-	IaaS
-	IoT
-	Python
-	Matlab
-	SPSS
-	R
-	AutoCAD
-	Blender
-	Audacity
-	AsciiDoc
-	Amazon EC2
-	Lamp server
-	xampp
-	Red hat
-	Microsoft Windows server
-	Open Suse
-	IoS
-	MacOS
-	Android
-	Raspberry pi
-	Power BI
-	IBM Watson
-	Open shift
-	Kubernetic
-	Bugzilla
-	Google workplace
-	Microsoft 365
-	Google Analytics
-	YouTube studio
-	CCNA toolkit
-	Plant UML
-	Smart Digital City \& Citizen Management
-	Dynamic programming
-	Agile or prince2 or scrum project management
+## Programming, Technical & Technological Skills
+| A              | B              | C              |
+|---------------|---------------|---------------|
+|J2SE           |J2EE           | Mariadb       |
+|MySQL          |MySQL workbench|Net beans      |
+|JavaScript     |HTML5          |XML            |
+|CSS            |Apace Tomcat   |JBOSS          |
+|Oracle 21      |Git            |SVN            |
+|C++            |C              |Lisp           |
+|Emacs          |Vim            |Xcode          |
+|Atom           |Ansible        |Docker         |
+|SaaS           |PaaS           |IaaS           |
+|IoT            |Python         |Matlab         |
+|SPSS           |R              |AutoCAD        |
+|Blender        |Audacity       |AsciiDoc       |
+|Amazon EC2     |Lamp server    |XAMPP          |
+|Red hat        |Microsoft Windows server |Open Suse |
+|IoS            |MacOS          |Android        |
+|Raspberry pi   |Power BI       |IBM Watson     |
+|Open shift     |Kubernetic     |Bugzilla       |
+|Google workplace|Microsoft 365 |Google Analytics|
+|YouTube studio |CCNA toolkit   |Plant UML      |
+|Smart Digital City & Citizen Management |Dynamic programming |Agile or prince2 or scrum project management |
+
+
 {\fontsize{10}{8}{Skills Set}}
 	\includegraphics[width=8cm]{skillsRoss.png}
 
