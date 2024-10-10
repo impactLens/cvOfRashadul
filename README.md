@@ -88,23 +88,25 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 |HSC | Group: Science, Rajshahi Board | 2000 |MARKS: 788 out of 1000 |Cantt. Public School and College Rangpur| Bangladesh |
 |SSC | Group: Science, Rajshahi Board | 1998 | MARKS: 897 out of 1000|Rangpur Zilla School| Bangladesh|
 
-\section{Key Projects}
-		TITLE\par ORGANIZATION\par GEO LOCATION & EFFORT & ACHIEVED LEVEL\\
-		\hline
-		Digital Infrastructure Designer \par Enterprise resource planning ( ERP ) \par Primeasia University \par  Dhaka, Bangladesh & Estimated effort 30000 hours & CMMI level 3 \par PMMI level 4 \par ACCESS level 2\\	\hline
-		
-		iSalesEngine \& Analytic Developer  \par J2EE, J2SE, C++, Python, Oracle, Apache Tomcat, Responsive HTML5, CSS, LISP  \par Quest Consultancy \par Bangladesh & Estimated effort 42240 hours & CMMI level 4 \par PMMI level 3 \par ACCESS level 3 \\	\hline
-		
-		Data Analyst (Customer purchase behavior, sales \& supply chain)  \par contractual, a medicine company \par UK & Estimated effort 50000 hours & CMMI level 4 \par PMMI level 4 \par ACCESS level 3\\	\hline
-		
-		Technical lead \& Technical Documentation\par MoHFW, LGED, BTCL, USAID, World Bank  \par Bangladesh &Estimated effort  12063980 hours & CMMI level 5 \par PMMI level 5 \par ACCESS level 4\\	\hline
-		
-		Organization developer \& Adjunct Faculty \par A leading private university \par Bangladesh &Estimated effort 32000 hours & CMMI level 3 \par PMMI level 2\par ACCESS level 1\\	\hline
-		
-		Associate Consultant IT and ICT \par S.F. Ahmed \& Co. \par Dhaka, Bangladesh & Estimated effort 200000 hours & CMMI level 5 \par PMMI level 5\par ACCESS level 2 \\	\hline
-		
-		Artificially Learning Cogs In Automated Smart Home System \& Analytic\par Sponsored Data Science Project\par Bangladesh & Estimated effort 61320 hours & CMMI level 5 \par PMMI level 5\par ACCESS level 1 \\	\hline
-		
+## Key Projects
+|TITLE|ORGANIZATION|GEO LOCATION | EFFORT | ACHIEVEMENT |
+|---|---|---|---|---|
+|Digital Infrastructure Designer, Enterprise resource planning ( ERP ) | Primeasia University | Bangladesh | 30000 hours | CMMI level 3, PMMI level 4|
+
+|iSalesEngine & Analytic Developer (J2EE, J2SE, C++, Python, Oracle, Apache Tomcat, Responsive HTML5, CSS, LISP)  |Quest Consultancy | Bangladesh | Estimated 42240 hours | CMMI level 4, PMMI level 3|
+
+|Data Analyst (Customer purchase behavior, sales & supply chain)  |contractual, a medicine company | UK | Estimated 50000 hours | CMMI level 4, PMMI level 4 |
+
+|Technical lead & Technical Writer|LGED, BTCL, USAID|Bangladesh |Estimated 12063980 hours | CMMI level 5, PMMI level 5 |
+
+|Organization developer & Adjunct Faculty |A leading private university |Bangladesh |Estimated 32000 hours | CMMI level 3, PMMI level 2|
+
+|Associate Consultant IT and ICT |S.F. Ahmed & Co. |Dhaka, Bangladesh | Estimated 200000 hours | CMMI level 5, PMMI level 5|
+
+|Artificially Learning Cogs In Automated Smart Home System & Real-time Analytics |Sponsored Data Science Project|Bangladesh | Estimated 61320 hours | CMMI level 5, PMMI level 5|
+
+| Real-time Product Recommending Chatbot | Wholesale wirehouse or Retail business | Global | Estimated 20000 hours | CMMI level 5, PMMI level 5 |
+
 		
 \section{Published journals }
 	\item Mantissa Problem In Artificial Intelligent Computing
