@@ -7,21 +7,23 @@
 DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business development mentor, Big Data Analyst, Artificial Intelligence & Nanotechnology, Algorithm Design, Product or Service Ecosystem Designer, Organization Branding & Policy Designer, Open Source Ambassador, Keynote Speaker, Translator, Student & Career Counselor
 ====
 
-== Personal Details ==
+## Personal Details 
 | Name:             | RASHADUL ISLAM        |
 |-------------------|-----------------------|
 | Name of Mother:   | MAHFUJA KHATUN        |
 | Name of Father:   | Md. SERAJUL ISLAM     |
 | Date of Birth:    | JANUARY 01, 1984      |
 | Nationality:      | Bangladeshi by Birth  |
+|-------------------|-----------------------|
 		
-{\fontsize{10}{8} Language Adaptability}
-
-		& Estimated Band Score & Out of Score \\
-		ENGLISH & 8.5 & 10 \\
-		FRENCH & 6.5 & 10 \\
-		BANGLA & 9.0 & 10 \\
-		SPANISH & 5.5 & 10 \\
+## Language Adaptability
+|Language           |Overall Band Score | Out of Score |
+|-------------------|-------------------|--------------|
+|ENGLISH            | 8.5               | 10 |
+|FRENCH             | 6.5               | 10 |
+|BANGLA             | 9.0               | 10 |
+|SPANISH            | 5.5               | 10 |
+|-------------------|-------------------|--------------|
 		
 {\fontsize{10}{8} Technical \& Technology Toolbox}\\
 	J2SE
