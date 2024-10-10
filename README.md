@@ -118,10 +118,11 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 	 -  Top 100 Students  SSC and HSC, Rajshahi Board, Bangladesh 1998 - 2000
 	 -  High performance, impact, influential key employee, A renowned gaming organization in Canada
 	
-\begin{table}[!ht]
-		Cellular: & +8801714118395\\
-		%E-Mail: & \href {mailto:rashadul.cse@gmail.com}{rashadul.cse@gmail.com}  \\
-		E-Mail: & \href {mailto:systemd.rashadul@hotmail.com}{systemd.rashadul@hotmail.com}  \\
-		Residence:	& House 13, Road 1 \par Mahadebpur (Noorpur), Alamnagar, \par Rangpur 5402, Bangladesh   \\
-		Postal Address: & House 62, Floor 5, Siddique Bazar, \par Near Moti Shardar Mosque, \par Bangshal Thana,Dhaka 1100, Bangladesh   \\
+## Contact Information
+|Type               | Expanding information            |
+|---|---|
+|Cellular:          | +88018 4146 7677      | 
+|E-Mail:            | itsme.rashadul@outlook.com |
+|Residence:	        | House 13, Road 1, Mahadebpur (Noorpur), Alamnagar,  Rangpur 5402, Bangladesh   |
+|Postal Address:    | House 62, Floor 5, Siddique Bazar,  Near Moti Shardar Mosque,  Bangshal Thana,Dhaka 1100, Bangladesh   |
 		
