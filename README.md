@@ -24,7 +24,7 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 |SPANISH            | 5.5               | 10 |
 		
 ## Programming, Technical & Technological Skills
-| A              | B              | C              |
+| i              | ii              | iii              |
 |---------------|---------------|---------------|
 |J2SE           |J2EE           | Mariadb       |
 |MySQL          |MySQL workbench|Net beans      |
@@ -48,11 +48,16 @@ DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business devel
 |Smart Digital City & Citizen Management |Dynamic programming |Agile or prince2 or scrum project management |
 
 
-{\fontsize{10}{8}{Skills Set}}
+## Skills Set
 	\includegraphics[width=8cm]{skillsRoss.png}
 
-{\fontsize{10}{8} Interest}\\
-{\scriptsize Tennis, Sailing, Kayaking, Swimming, Hiking, Rugby, Chess, Go, Poker, Maze design, Crossword, Beekeeping, Watching star constellation, birds flocking, fish schooling, animal herding and ant colony, Swimming, Golf, Sudoku, Magic Square, Billiards}\\
+## Interest
+|i              | ii                | iii                           | iv        |      
+|Tennis         | Sailing           | Kayaking                      | Swimming  | 
+|Hiking         | Rugby             | Chess                         | Go        |  
+|Maze design    | Crossword         | Beekeeping                    | Poker     |
+|Birds flocking | Fish schooling    | Animal herding and ant colony | Swimming  | 
+|Golf           | Sudoku            | Magic Square                  | Billiards |
 
 \section{Work Experience}
 
