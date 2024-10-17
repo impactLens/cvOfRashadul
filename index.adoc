@@ -4,7 +4,7 @@
 :icons: font
 
 = RASHADUL ISLAM
-B.Sc (double undergraduate)
+B.Sc (double undergraduate) CSE, CSC
 
 == Specialization and Expertise
 
@@ -12,15 +12,17 @@ B.Sc (double undergraduate)
 .Specialization
 ====
 System Software, Software Engineering, Canada-Bangladesh
-====                                            
+====
 [IMPORTANT]
 .Expertise
 ====
 Software Engineering, DevOP Full Stack, Consultant IT-Infrastructure-ICT, Entrepreneur, Business development mentor, Big Data Analyst, Artificial Intelligence & Nanotechnology, Algorithm Design, Product or Service Ecosystem Designer, Organization Branding & Policy Designer, Open Source Ambassador, Keynote Speaker, Translator, Student & Career Counselor
 ====
-
+<<<
 == Latest picture:
-image:https://github.com/impactLens/cvOfRashadul/blob/main/RashadulIslam.jpg[Rashadul Islam,25,35]
+image::https://raw.githubusercontent.com/impactLens/cvOfRashadul/refs/heads/main/RashadulIslam.jpg[Rashadul Islam,width=30%,height=30%]
+
+//image::RashadulIslam.jpg[Rashadul Islam,width=30%,height=30%]
 
 == Personal Details
 
@@ -37,7 +39,15 @@ image:https://github.com/impactLens/cvOfRashadul/blob/main/RashadulIslam.jpg[Ras
 
 
 === Skills of Rashadul Islam
-image:https://github.com/impactLens/cvOfRashadul/blob/main/skillsRoss.png[Revised skillset,25,35]
+
+image::https://raw.githubusercontent.com/impactLens/cvOfRashadul/refs/heads/main/skillsRoss.png[Revised skillset,width=60%;height=60%]
+
+image::https://raw.githubusercontent.com/impactLens/cvOfRashadul/refs/heads/main/itCantBeTaught.png[Strong Subjective Understanding,width=55%,height=55%]
+
+////
+image::skillsRoss.png[Revised skillset,width=60%;height=60%]                                                                                  //image::itCantBeTaught.png[Strong Subjective Understanding,width=55%,height=55%]
+
+////
 
 === Language proficiency
 
@@ -93,24 +103,46 @@ image:https://github.com/impactLens/cvOfRashadul/blob/main/skillsRoss.png[Revise
 |Golf           | Sudoku            | Magic Square                  | Billiards
 |===
 
+<<<
+
 == Work experience
 .Work Experience and Awards, Achievements
 |===
 |DESIGNATION | ORGANIZATION | GEO LOCATION  | YEAR
 
-|Chief Global Operation Executive           | QUEST Consultancy | Bangladesh | Sep 2016 - Sep 2023
-|Ambassador, Fedora project                 | Open source community project under Red hat | Canada Region | Fall 2005 - Current
 |Full-stack DevOP (Java Enterprise Editions(ERP, SAP, Cloud Computing, WebApp, MobileApp, Microservice)  | Contractual | Bangladesh - Canada | June 2003 - Current
-|Mentor (Entrepreneurship) , Business Developer  | SME and NGO | Bangladesh | January 2009 - January 2023
 |Author (Technological Fiction) | Engineering Magazine, ECA, Concordia University | Canada | Fall 2003 - Current
-|Technical Review Writer                    | Contractual  |  Bangladesh | August 2011 - September 2020
-|Creative Writer                            | Ads Agency and Media Houses, Contractual | Bangladesh | Summer 2006 - Current
 |Consulting Analyst, Data Science and Big Data, Statistical-economical-financial Analysis | Contractual | Canada-Bangladesh | December 2011 - Current
-|Visiting Trainer [Funded by JICA]          | Bangladesh Computer Council | Bangladesh | Summer 2010
-|Organizer                                  | BASIS Soft Expo 2011 | Bangladesh | Winter 2011
+|Creative Writer                                   | Ads Agency and Media Houses, Contractual | Bangladesh | Summer 2006 - Current
+|Ambassador, Fedora project                 | Open source community project under Red hat | OS Community | Fall 2005 - Current
+|Chief Global Operation Executive           | QUEST Consultancy | Bangladesh | Sep 2016 - Sep 2023
+|Technical Review Writer                    | Contractual  |  Bangladesh | August 2011 - September 2020
 |Organizer                                  | First convocation, Primeasia University | Bangladesh | Winter 2010
-|Technology, Lifestyle and Glamour Writer   | A media house, Dhaka | Bangladesh |  October 2016 - September 2020
+|Visiting Trainer [Funded by JICA]          | Bangladesh Computer Council | Bangladesh | Summer 2010
+|Mentor, Business Developer                 | SME | Bangladesh | January 2009 - January 2023
+|Organizer                                  | BASIS Soft Expo 2011 | Bangladesh | Winter 2011
+|Career Counselor                           | ECA Concordia, IUB | CA & BD | Fall 2004 - Fall 2008
 |===
+
+<<<
+
+== Projects
+
+.Project performance
+|===
+|TITLE|ORGANIZATION|GEO LOCATION | EFFORT | ACHIEVEMENT
+
+|Organization developer & Adjunct Faculty |A leading private university |Bangladesh |Estimated 32000 hours | CMMI level 3, PMMI level 2
+|Digital Infrastructure Designer, Enterprise resource planning ( ERP ) | Primeasia University | Bangladesh | 30000 hours | CMMI level 3, PMMI level 4
+|iSalesEngine & Analytic Developer (J2EE, J2SE, C++, Python, Oracle, Apache Tomcat, Responsive HTML5, CSS, LISP)  |Quest Consultancy | Bangladesh | Estimated 42240 hours | CMMI level 4, PMMI level 3
+|Data Analyst (Customer purchase behavior, sales & supply chain)  |Contractual, a medicine company | UK | Estimated 50000 hours | CMMI level 4, PMMI level 4
+|Technical lead & Technical Writer|LGED, BTCL, USAID|Bangladesh |Estimated 12063980 hours | CMMI level 5, PMMI level 5
+|Associate Consultant IT and ICT |S.F. Ahmed & Co. |Dhaka, Bangladesh | Estimated 200000 hours | CMMI level 5, PMMI level 5
+|Artificially Learning Cogs In Automated Smart System & Real-time Analytics |Sponsored Data Science Project|Bangladesh | Estimated 61320 hours | CMMI level 5, PMMI level 5
+| Real-time Product Recommending Chatbot | Sponsored by wholesale wirehouse or Retail business | Global | Estimated 20000 hours | CMMI level 5, PMMI level 5
+|===
+
+<<<
 
 == Academic details
 
@@ -126,50 +158,50 @@ image:https://github.com/impactLens/cvOfRashadul/blob/main/skillsRoss.png[Revise
 |SSC | Group: Science, Rajshahi Board | 1998 | MARKS: 897 out of 1000|Rangpur Zilla School| Bangladesh
 |===
 
-== Projects
-
-.Project performance
-|===
-|TITLE|ORGANIZATION|GEO LOCATION | EFFORT | ACHIEVEMENT
-
-|Digital Infrastructure Designer, Enterprise resource planning ( ERP ) | Primeasia University | Bangladesh | 30000 hours | CMMI level 3, PMMI level 4
-|iSalesEngine & Analytic Developer (J2EE, J2SE, C++, Python, Oracle, Apache Tomcat, Responsive HTML5, CSS, LISP)  |Quest Consultancy | Bangladesh | Estimated 42240 hours | CMMI level 4, PMMI level 3
-|Data Analyst (Customer purchase behavior, sales & supply chain)  |Contractual, a medicine company | UK | Estimated 50000 hours | CMMI level 4, PMMI level 4
-|Technical lead & Technical Writer|LGED, BTCL, USAID|Bangladesh |Estimated 12063980 hours | CMMI level 5, PMMI level 5
-|Organization developer & Adjunct Faculty |A leading private university |Bangladesh |Estimated 32000 hours | CMMI level 3, PMMI level 2
-|Associate Consultant IT and ICT |S.F. Ahmed & Co. |Dhaka, Bangladesh | Estimated 200000 hours | CMMI level 5, PMMI level 5
-|Artificially Learning Cogs In Automated Smart Home System & Real-time Analytics |Sponsored Data Science Project|Bangladesh | Estimated 61320 hours | CMMI level 5, PMMI level 5
-| Real-time Product Recommending Chatbot | Wholesale wirehouse or Retail business | Global | Estimated 20000 hours | CMMI level 5, PMMI level 5
-|===
 
 == Author
 
 .Published journals
 |===
-| Mantissa Problem In Artificial Intelligent Computing
-|Sigma Rate In Errors Finding In Object Oriented Programming & Compiler
-|Newton's Pendulum In Production Environment As A Project Management Paradigm
-|Artificially Intelligent Learning Cogs In Client Or Sales or Production Behavior Analysis
+| Mantissa Problem in Artificially Intelligent System
+|Sigma Rate in Errors Finding at Object Oriented Programming & Compiler
+|Newton's Pendulum in Production Environment as a Project Management Paradigm
+|Behavior, Pattern and Trend in Artificially Intelligent Cogs towards Client, Sales or Production Ecosystem
 |Preemptive Algorithm: Systemic Schedule in Workflow Development
-|Artificially Intelligent System: Optimized Sensors, IoT and Machine Learning models integration
+|SaaS, PaaS, IaaS Infrastructure & Algorithm Design: Optimized Sensors, IoT and Machine Learning models integration
 |===
+
+<<<
 
 == Achievements & Awards
 .Achievements & Awards
 |===
-|Second Position in Internal ACM Programming Contest Independent University Bangladesh Fall 2002
-|Student on Duty (SoD) Registrar's, Admission and Financial Aid Office, IUB, Bangladesh Spring 2002-Winter 2003
-|Registrar's Office list & Gold Medalist CGPA above 3.75 in consecutive academic semester, a renowned university in Bangladesh 2019
-|Outstanding Contribution in Student Life and Career Development  Concordia University, Canada 2006
-|Top 100 Students  SSC and HSC, Rajshahi Board, Bangladesh 1998 - 2000
-|High performance, impact, influential key employee, A renowned gaming organization in Canada
+| ACHIEVEMENT & AWARDS | INSTITUTE | YEAR
+
+|Second Position in Internal ACM Programming Contest | Independent University Bangladesh | Fall 2002
+|Student on Duty (SoD) | Registrar's, Admission and Financial Aid Office, IUB, Bangladesh | Spring 2002-Winter 2003
+|Registrar's Office list & Gold Medalist for CGPA above 3.75 in consecutive academic semester | Sponsored by renowned university in Bangladesh | 2019
+|Outstanding Contribution in Student Life and Career Development  | Concordia University, Canada | 2006
+|Top 100 Students  | SSC and HSC, Rajshahi Board, Bangladesh | 1998 - 2000
+|High performance, impactful, influential key employee | A renowned gaming organization in Canada | 2007
+|===
+
+== Professional certification
+
+.Professional certification
+|===
+|Title
+
+|Oracle Certified Professional, Java EE 7 Application Developer
+|Oracle Certified Professional, Java SE 8 Programmer II
+|Oracle Certified Professional, Java SE 8 Programmer
 |===
 
 == Contact Information
 
 .Contact Information
 |===
-|Type               | Expanding information     
+|Type               | Expanding information
 
 |Cellular:          | +88018 4146 7677
 |E-Mail:            | itsme.rashadul@outlook.com
